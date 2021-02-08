@@ -47,4 +47,5 @@ li:hover {
 .contenedor form{
     width: 50%;
     text-align: center;
+    height: auto;
 }
